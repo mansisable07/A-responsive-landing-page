@@ -1,5 +1,5 @@
 # A-responsive-landing-page
-Responsive landing page
+
 
 A Responsive Christmas Landing Page
 
